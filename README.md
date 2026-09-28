@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project: Emotion Detection
 
 A Flask-based web application that analyzes text input and detects the underlying emotional tone. The application identifies five core emotions—anger, disgust, fear, joy, and sadness—and determines which emotion is most dominant in the given text.
 
